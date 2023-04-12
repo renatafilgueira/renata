@@ -12,4 +12,4 @@
 ![Snake animation](https://github.com/vynijales/vynijales/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<!-- <p> Estudante de Informática no Instituto Federal do Rio Grande do Norte (IFRN)
+<!-- <p> Estudante de Informática no Instituto Federal do Rio Grande do Norte (IFRN) </p>
