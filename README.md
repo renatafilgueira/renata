@@ -20,3 +20,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatafilgueira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <!-- <p> Estudante de Informática no Instituto Federal do Rio Grande do Norte (IFRN) </p>
+
+<div align="center">
+<br><p align="centre"><b>Total Profile Visits</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{renatafilgueira}/count.svg" /></p> 
+<br>
+</div>
