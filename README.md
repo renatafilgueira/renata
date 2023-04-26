@@ -23,5 +23,5 @@
 ![Snake animation](https://github.com/vynijales/vynijales/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador Renata">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Renata">
 <div>
