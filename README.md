@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff60e9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff60e9&height=120&section=header">
 <p align="center">
 
   <a href="https://instagram.com/renatafilgueiira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,3 +25,4 @@
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador Renata">
 <div>
+<img width=100% src="https://camo.githubusercontent.com/4e8290502c203a3dc813afb36a6e6a7895d8c740e599f40e59cd17f23ed7ab84/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666636306539266865696768743d3132302673656374696f6e3d666f6f746572">
