@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff60e9&height=120&section=header"/>
 <p align="center">
 
   <a href="https://instagram.com/renatafilgueiira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
